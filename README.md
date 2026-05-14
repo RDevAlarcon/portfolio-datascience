@@ -25,7 +25,7 @@ GitHub: [RDevAlarcon](https://github.com/RDevAlarcon)
 | House Price Prediction | regresion, seleccion de variables, evaluacion de modelos | `projects/04-house-price-prediction/house_price_prediction.ipynb` |
 | Customer Segmentation | clustering, analisis de clientes, segmentacion | `projects/05-customer-segmentation/customer_segmentation.ipynb` |
 | Flight Price Prediction | regresion, feature engineering, modelado predictivo | `projects/06-flight-price-prediction/flight_price_prediction.ipynb` |
-| Tableau Sales Dashboard | dashboard, KPIs comerciales, visualizacion ejecutiva | `projects/07-tableau-sales-dashboard/README.md` |
+| Tableau Sales Dashboard | dashboard, KPIs comerciales, visualizacion ejecutiva | [Ver proyecto](projects/07-tableau-sales-dashboard/README.md) / [Dashboard interactivo](https://public.tableau.com/app/profile/ricardo.alarcon7400/viz/Desafio-analizandolasventas/HistoriaPregunta1) |
 
 ## Como navegar
 

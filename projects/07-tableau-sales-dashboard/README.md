@@ -2,6 +2,10 @@
 
 Dashboard comercial desarrollado en Tableau para analizar ventas de retail. El archivo empaquetado permite revisar visualizaciones y KPIs desde Tableau Desktop o Tableau Public.
 
+## Dashboard interactivo
+
+[Ver dashboard en Tableau Public](https://public.tableau.com/app/profile/ricardo.alarcon7400/viz/Desafio-analizandolasventas/HistoriaPregunta1)
+
 ## Como ver el dashboard
 
 GitHub no renderiza archivos `.twbx` directamente en el navegador. Si abres `sales_dashboard.twbx` desde GitHub, solo veras la opcion `View raw`; eso es normal.
@@ -9,7 +13,7 @@ GitHub no renderiza archivos `.twbx` directamente en el navegador. Si abres `sal
 Para revisarlo hay dos opciones:
 
 1. Descargar `sales_dashboard.twbx` y abrirlo con Tableau Desktop o Tableau Public.
-2. Publicar el dashboard en Tableau Public y agregar aqui el enlace publico.
+2. Abrir el enlace de Tableau Public para verlo de forma interactiva.
 
 ## Preview
 
