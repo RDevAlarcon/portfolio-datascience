@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 # Data Science Portfolio
 
 Portafolio de proyectos desarrollados durante mi formacion en Data Science. El repositorio esta curado para mostrar habilidades practicas en analisis de datos, SQL, estadistica, machine learning y visualizacion.
