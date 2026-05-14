@@ -17,7 +17,13 @@ Para revisarlo hay dos opciones:
 
 ## Preview
 
-Pendiente: agregar una captura exportada desde Tableau como `dashboard-preview.png`.
+### Ventas totales por estado
+
+![Ventas totales por estado](dashboard-sales-by-state.png)
+
+### Aporte porcentual de ventas por estado dentro de su region
+
+![Aporte porcentual de ventas por estado dentro de su region](dashboard-region-share.png)
 
 ## Archivo principal
 
