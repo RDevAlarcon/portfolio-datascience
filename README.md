@@ -2,6 +2,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
 # Data Science Portfolio
 
 Portafolio de proyectos desarrollados durante mi formacion en Data Science. El repositorio esta curado para mostrar habilidades practicas en analisis de datos, SQL, estadistica, machine learning y visualizacion.
@@ -17,6 +18,7 @@ GitHub: [RDevAlarcon](https://github.com/RDevAlarcon)
 - SQL: joins, agregaciones y consultas analiticas
 - Estadistica: analisis descriptivo, inferencia, hipotesis y regresion
 - Machine Learning: clasificacion, regresion, clustering y evaluacion de modelos
+- Deep Learning: redes feedforward, CNN, RNN/NLP, regularizacion y busqueda de hiperparametros
 - Tableau: dashboards y visualizacion de datos
 
 ## Proyectos
@@ -30,6 +32,7 @@ GitHub: [RDevAlarcon](https://github.com/RDevAlarcon)
 | Customer Segmentation | clustering, analisis de clientes, segmentacion | `projects/05-customer-segmentation/customer_segmentation.ipynb` |
 | Flight Price Prediction | regresion, feature engineering, modelado predictivo | `projects/06-flight-price-prediction/flight_price_prediction.ipynb` |
 | Tableau Sales Dashboard | dashboard, KPIs comerciales, visualizacion ejecutiva | [Ver proyecto](projects/07-tableau-sales-dashboard/README.md) / [Dashboard interactivo](https://public.tableau.com/app/profile/ricardo.alarcon7400/viz/Desafio-analizandolasventas/HistoriaPregunta1) |
+| Deep Learning | redes neuronales feedforward, CNN, RNN/NLP, regularizacion | [Ver proyecto](projects/08-deep-learning/README.md) |
 
 ## Como navegar
 

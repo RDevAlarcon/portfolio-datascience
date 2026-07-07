@@ -1,4 +1,4 @@
-__pycache__/
+﻿__pycache__/
 .ipynb_checkpoints/
 .DS_Store
 Thumbs.db
@@ -21,3 +21,10 @@ venv/
 env/
 *.sqlite
 *.db
+Redes neuronales/
+*.npy
+*.bin
+*.keras
+*.h5
+*.model
+

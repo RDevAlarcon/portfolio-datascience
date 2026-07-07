@@ -1,4 +1,4 @@
-pandas
+﻿pandas
 numpy
 matplotlib
 seaborn
@@ -7,3 +7,8 @@ scipy
 statsmodels
 openpyxl
 sqlalchemy
+tensorflow
+keras
+scikeras
+xgboost
+
