@@ -5,7 +5,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-# Data Science Portfolio
+# Data Analytics & Machine Learning Portfolio
 
 Portafolio de proyectos desarrollados durante mi formacion en Data Science. El repositorio esta curado para mostrar habilidades practicas en analisis de datos, SQL, estadistica, machine learning y visualizacion.
 
