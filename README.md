@@ -71,3 +71,7 @@ Cada carpeta contiene el notebook, script o dashboard principal junto con los da
 ## Nota
 
 Este repositorio no es una copia completa del bootcamp. Se eliminaron videos, enunciados, archivos temporales, datasets duplicados y material pesado para mantener una version clara y revisable como portafolio profesional.
+
+## License
+
+This project is licensed under the MIT License.
