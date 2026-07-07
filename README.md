@@ -25,12 +25,14 @@ GitHub: [RDevAlarcon](https://github.com/RDevAlarcon)
 
 ## Stack
 
-- Python: pandas, numpy, matplotlib, seaborn, scikit-learn
-- SQL: joins, agregaciones y consultas analiticas
-- Estadistica: analisis descriptivo, inferencia, hipotesis y regresion
-- Machine Learning: clasificacion, regresion, clustering y evaluacion de modelos
-- Deep Learning: redes feedforward, CNN, RNN/NLP, regularizacion y busqueda de hiperparametros
-- Tableau: dashboards y visualizacion de datos
+- Python: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
+- SQL: PostgreSQL, JOINs, CTEs, Window Functions y consultas analíticas
+- Power BI: Power Query, DAX y dashboards interactivos
+- Tableau: dashboards y visualización de datos
+- Estadística: análisis descriptivo, inferencial, pruebas de hipótesis y regresión
+- Machine Learning: clasificación, regresión, clustering, feature engineering y evaluación de modelos
+- Deep Learning: ANN, CNN, RNN, NLP, regularización y optimización de hiperparámetros
+- Herramientas: Git, GitHub y Jupyter Notebook
 
 ## Proyectos
 
