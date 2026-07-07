@@ -15,7 +15,7 @@ Ricardo Alarcon
 
 ## Contact
 - GitHub: [RDevAlarcon](https://github.com/RDevAlarcon)
-- LinkedIn: [https://linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com/in/ricardo-alarc%C3%B3n/)
+- LinkedIn: (https://www.linkedin.com/in/ricardo-alarc%C3%B3n/)
 - Email: alarconcastroricardo@gmail.com
   
 ## Tecnologias
