@@ -7,7 +7,7 @@
 
 # Data Analytics & Machine Learning Portfolio
 
-Portafolio de proyectos desarrollados durante mi formacion en Data Science. El repositorio esta curado para mostrar habilidades practicas en analisis de datos, SQL, estadistica, machine learning y visualizacion.
+Portafolio de proyectos desarrollados durante mi formación en Data Analytics y Data Science. Este repositorio reúne proyectos prácticos de análisis de datos, SQL, estadística, machine learning, deep learning y visualización de datos.
 
 ## Autor
 
