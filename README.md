@@ -15,13 +15,14 @@ Portafolio de proyectos desarrollados durante mi formación en Data Analytics y 
 
 ## Autor
 
-Ricardo Alarcon  
+Ricardo Alarcon
 
 ## Contact
+
 - GitHub: [RDevAlarcon](https://github.com/RDevAlarcon)
 - LinkedIn: https://www.linkedin.com/in/ricardo-alarc%C3%B3n/
 - Email: alarconcastroricardo@gmail.com
-  
+
 ## Tecnologias
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -56,21 +57,21 @@ Ricardo Alarcon
 | Proyecto | Habilidades principales | Archivo principal |
 | --- | --- | --- |
 | SQL Analysis | consultas SQL, joins, filtros, agregaciones | `projects/01-sql-analysis/customer_orders_joins.sql` |
-| Statistical Analysis with Python | EDA, estadistica descriptiva, visualizacion, pruebas estadisticas | `projects/02-statistical-analysis/statistical_analysis_python.ipynb` |
-| Customer Churn Prediction | clasificacion, preprocesamiento, metricas de evaluacion | `projects/03-customer-churn/customer_churn_prediction.ipynb` |
-| House Price Prediction | regresion, seleccion de variables, evaluacion de modelos | `projects/04-house-price-prediction/house_price_prediction.ipynb` |
-| Customer Segmentation | clustering, analisis de clientes, segmentacion | `projects/05-customer-segmentation/customer_segmentation.ipynb` |
-| Flight Price Prediction | regresion, feature engineering, modelado predictivo | `projects/06-flight-price-prediction/flight_price_prediction.ipynb` |
-| Tableau Sales Dashboard | dashboard, KPIs comerciales, visualizacion ejecutiva | [Ver proyecto](projects/07-tableau-sales-dashboard/README.md) / [Dashboard interactivo](https://public.tableau.com/app/profile/ricardo.alarcon7400/viz/Desafio-analizandolasventas/HistoriaPregunta1) |
-| Deep Learning | redes neuronales feedforward, CNN, RNN/NLP, regularizacion | [Ver proyecto](projects/08-deep-learning/README.md) |
+| Statistical Analysis with Python | EDA, estadística descriptiva, visualización, pruebas estadísticas | `projects/02-statistical-analysis/statistical_analysis_python.ipynb` |
+| Customer Churn Prediction | clasificación, preprocesamiento, métricas de evaluación | `projects/03-customer-churn/customer_churn_prediction.ipynb` |
+| House Price Prediction | regresión, selección de variables, evaluación de modelos | `projects/04-house-price-prediction/house_price_prediction.ipynb` |
+| Customer Segmentation | clustering, análisis de clientes, segmentación | `projects/05-customer-segmentation/customer_segmentation.ipynb` |
+| Flight Price Prediction | regresión, feature engineering, modelado predictivo | `projects/06-flight-price-prediction/flight_price_prediction.ipynb` |
+| Tableau Sales Dashboard | dashboard, KPIs comerciales, visualización ejecutiva | [Ver proyecto](projects/07-tableau-sales-dashboard/README.md) / [Dashboard interactivo](https://public.tableau.com/app/profile/ricardo.alarcon7400/viz/Desafio-analizandolasventas/HistoriaPregunta1) |
+| Deep Learning | redes neuronales feedforward, CNN, RNN/NLP, regularización | [Ver proyecto](projects/08-deep-learning/README.md) |
 
 ## Como navegar
 
-Cada carpeta contiene el notebook, script o dashboard principal junto con los datos necesarios para revisarlo. Los notebooks estan pensados para verse directamente desde GitHub y muestran el flujo de trabajo desde la preparacion de datos hasta las conclusiones.
+Cada carpeta contiene el notebook, script o dashboard principal junto con los datos necesarios para revisarlo. Los notebooks están pensados para verse directamente desde GitHub y muestran el flujo de trabajo desde la preparación de datos hasta las conclusiones.
 
 ## Nota
 
-Este repositorio no es una copia completa del bootcamp. Se eliminaron videos, enunciados, archivos temporales, datasets duplicados y material pesado para mantener una version clara y revisable como portafolio profesional.
+Este repositorio no es una copia completa del bootcamp. Se eliminaron videos, enunciados, archivos temporales, datasets duplicados y material pesado para mantener una versión clara y revisable como portafolio profesional.
 
 ## License
 
