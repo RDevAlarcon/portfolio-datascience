@@ -12,8 +12,12 @@ Portafolio de proyectos desarrollados durante mi formación en Data Analytics y 
 ## Autor
 
 Ricardo Alarcon  
-GitHub: [RDevAlarcon](https://github.com/RDevAlarcon)
 
+## Contact
+- GitHub: [RDevAlarcon](https://github.com/RDevAlarcon)
+- LinkedIn: [https://linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com/in/ricardo-alarc%C3%B3n/)
+- Email: alarconcastroricardo@gmail.com
+  
 ## Tecnologias
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
