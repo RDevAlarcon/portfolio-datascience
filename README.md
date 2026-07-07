@@ -34,6 +34,15 @@ GitHub: [RDevAlarcon](https://github.com/RDevAlarcon)
 - Deep Learning: ANN, CNN, RNN, NLP, regularización y optimización de hiperparámetros
 - Herramientas: Git, GitHub y Jupyter Notebook
 
+## Highlights
+
+- SQL para análisis y transformación de datos
+- Automatización con Python
+- Dashboards en Power BI y Tableau
+- Modelos de Machine Learning
+- Redes neuronales con TensorFlow
+- Análisis estadístico y pruebas de hipótesis
+
 ## Proyectos
 
 | Proyecto | Habilidades principales | Archivo principal |
